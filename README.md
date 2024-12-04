@@ -10,12 +10,13 @@ We want to compare different methods and techniques on simple _in-silico_ of _ex
 
 First clone the repository and create a virtual environment, where you can install the required packages. The Bayesian framework is based on _pymc_, the backend is based on _numba_ and _jax_, the parameter estimation process might use _tensorflow_
 
-"""
+```
 git clone git@github.com:B2-Bayesian-for-Biology/pymc-ODE-inference.git
 cd pymc-ODE-inference
 python venv pymc-ode
 source pymc-ode/bin/activate
-pip install requirements.txt """
+pip install requirements.txt
+```
 
 ## Getting started
 
