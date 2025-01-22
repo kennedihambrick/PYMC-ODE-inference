@@ -15,7 +15,7 @@ git clone git@github.com:kennedihambrick/PYMC-ODE-inference.git
 cd pymc-ODE-inference
 python3 -m venv pymc-ode
 source pymc-ode/bin/activate
-pip install -r requirements.txt
+pip install -r newrequirements.txt
 ```
 
 ## Getting started
